@@ -24,7 +24,7 @@ That said, keep in mind that no code (or comment) is perfect! A shared losely co
 - create a specific repository for your study / work (such as this one: [https://github.com/guillaumelobet/Root-Image-Analysis-Pipeline-Evaluation](https://github.com/guillaumelobet/Root-Image-Analysis-Pipeline-Evaluation))
 - make the repository public, for everyone to access
 
-![https://github.com/guillaumelobet/ressources/blob/master/imgs/github_public.png|alt=github_public]
+![https://github.com/guillaumelobet/ressources/blob/master/imgs/github_public.png]()
 
 Congrats, your code is now freely available (and easily browsable) to others! 
 

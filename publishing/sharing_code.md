@@ -31,7 +31,13 @@ Share it anyway!
 Congrats, your code is now freely available (and easily browsable) to others! 
 
 
-## 3. Make it citable
+## 3.  Include some data
+
+  Thanks to Alina Zare (@ProfZare) for suggesting this section
+
+If your code run with some data, these will be needed in order to ru it. On solution it to add a link to the full dataset, stored on an external platform such as [Zenodo](http://www.zenodo.org), [figshare](http://www.figshare.com) or [Dryad](https://datadryad.org/). An toehr solution is to include a subset of your data, enough to run your code, in the GitHub repo.  
+
+## 4. Make it citable
 
 Now that your code is available, you can do even better. Make it citable! See, the issue with your repo is that there are no garanties that it will stay as it is on the long run. You might update it (which is great), improve it (even better), but then the code is not the same as the one used for your original manuscript anymore (reproducibility - )... 
 
@@ -41,7 +47,7 @@ To do so, GitHub can be linked to a Zenodo repository. [Zenodo](http://www.zenod
 
 You can read the exact procedure to link you GitHub repo to Zenodo here: [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)
 
-## 4. All set!
+## 5. All set!
 
 Now you are all set. Your code is frelly available and easily citable, by yourself and others!
 

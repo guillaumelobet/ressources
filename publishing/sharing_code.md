@@ -33,7 +33,7 @@ Congrats, your code is now freely available (and easily browsable) to others!
 
 ## 3.  Include some data
 
-  Thanks to Alina Zare (@ProfZare) for suggesting this section
+    Thanks to Alina Zare (@ProfZare) for suggesting this section
 
 If your code run with some data, these will be needed in order to ru it. On solution it to add a link to the full dataset, stored on an external platform such as [Zenodo](http://www.zenodo.org), [figshare](http://www.figshare.com) or [Dryad](https://datadryad.org/). An toehr solution is to include a subset of your data, enough to run your code, in the GitHub repo.  
 

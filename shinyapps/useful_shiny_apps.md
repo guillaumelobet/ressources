@@ -36,6 +36,11 @@ For instance, to run this shiny app: [https://github.com/jhmatthes/mammal-traits
 
 - Population genetics: https://github.com/jhmatthes/evolution-populations
 
+## Data analysis:
+
+- Mutlivariate analysis: http://mvapp.kaust.edu.sa/MVApp/
+- Interactive Manhattan plots: https://chikudaisei.shinyapps.io/shinyaim/
+
 ## Others :
 
 - Computational tools to analyse wter flow in plants: https://plantmodelling.shinyapps.io/water_network/

@@ -26,6 +26,7 @@ For instance, to run this shiny app: [https://github.com/jhmatthes/mammal-traits
 - Water flow in root cross section (MECHA): https://plantmodelling.shinyapps.io/mecha/
 - Full plant model, with water, carbon and nitrogen (PlaNet): https://plantmodelling.shinyapps.io/PlaNet_Maize/
 - Farquhar photosynthesis model: http://biocycle.atmos.colostate.edu/shiny/photosynthesis/
+- Root Hydropatterning: https://nrobbins.shinyapps.io/20171008_hydropatterning_app/
 
 ## Animals:
 
@@ -35,6 +36,7 @@ For instance, to run this shiny app: [https://github.com/jhmatthes/mammal-traits
 ## Genetics :
 
 - Population genetics: https://github.com/jhmatthes/evolution-populations
+- Gene Integrated Set Profile Analysis: http://bbisr.shinyapps.winship.emory.edu/shinyGISPA/
 
 ## Data analysis:
 

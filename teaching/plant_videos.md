@@ -17,6 +17,7 @@ While preparing my plant biology classes, I came across these nice plant-related
 
 - Lateral root formation: www.youtube.com/watch?v=MmnVObueCJI
 - Lateral root formation: www.youtube.com/watch?v=hzJWlBab5Y
+- root hair growth: https://www.youtube.com/watch?v=4jHonkLQvc4
 
 
 
